@@ -1,15 +1,18 @@
 #red{
-	border-color:black;
+	 border-style: solid;
+  border-color: black;
 	border-width:1px;
 	background:red;
 }
 #yellow{
-	border-color:black;
+	 border-style: solid;
+  border-color: green;
 	border-width:1px;
 	background:yellow;
 }
 #green{
-	border-color:black;
+ border-style: solid;
+  border-color: yellow;
 	border-width:1px;
 	background:green;
 }
